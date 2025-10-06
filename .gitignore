@@ -126,3 +126,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Keep the tmp folders, ignore everything inside them
+**/tmp/*
+!**/tmp/.keep
