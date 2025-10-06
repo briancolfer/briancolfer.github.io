@@ -9,3 +9,7 @@ I help engineering teams cut release cycles from weeks to days by automating CI/
 - DevOps Transformation (CI/CD, repo modularization, K8s)
 - Ruby on Rails Delivery (pipelines, scaling, TDD)
 - Quality Engineering (test automation, metrics)
+
+## Resumes
+- [Short Resume](resumes/resume-short-102025.md)
+- [Technical Resume](resumes/resume-technical-102025.md)
