@@ -11,5 +11,5 @@ I help engineering teams cut release cycles from weeks to days by automating CI/
 - Quality Engineering (test automation, metrics)
 
 ## Resumes
-- [Short Resume](https://briancolfer.github.io/resumes/resume-short-102025.md)
-- [Technical Resume](https://briancolfer.github.io/resumes/resumes/resume-technical-102025.md)
+- [Short Resume](http://briancolfer.github.io/resumes/resume-short-102025.md)
+- [Technical Resume](http://briancolfer.github.io/resumes/resume-technical-102025.md)
