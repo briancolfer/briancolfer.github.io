@@ -11,3 +11,6 @@ I help engineering teams cut release cycles from weeks to days by automating CI/
 - Quality Engineering (test automation, metrics)
 
 ## Resumes available on request
+
+- [Short Resume](resumes/resume-short-102025.md)
+- [Technical Resume](resumes/resume-technical-102025.md)
