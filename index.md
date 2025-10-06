@@ -10,6 +10,4 @@ I help engineering teams cut release cycles from weeks to days by automating CI/
 - Ruby on Rails Delivery (pipelines, scaling, TDD)
 - Quality Engineering (test automation, metrics)
 
-## Resumes
-- [Short Resume](resumes/resume-short-102025.md)
-- [Technical Resume](resumes/resume-technical-102025.md)
+## Resumes available on request
