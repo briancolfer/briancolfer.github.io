@@ -12,7 +12,7 @@ all of which are consistent with your organization’s needs:
 * Build / Test / Release Infrastructure
 * Accelerating Pace of Releases
 * Scripting
-* Coding applications for great developer egronomics
+* Coding applications for great developer ergonomics
 * Scalability-Focused
 * Continuous Integration, and more… 
 
