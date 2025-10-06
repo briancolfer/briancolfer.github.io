@@ -1,7 +1,3 @@
----
-layout: default
-title: Resume – Short Version
----
 📧 brian.colfer@gmail.com | 🌐 [github.com/brian-colfer](https://github.com/brian-colfer) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 ---
