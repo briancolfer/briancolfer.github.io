@@ -4,7 +4,7 @@ title: Resume – Technical Version
 ---
 
 # Brian Colfer
-📧 [brian.colfer@gmail.com](mailto:brian.colfer@gmail.com) | 🌐 [github.com/brian-colfer](https://github.com/brian-colfer) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+📧 [brian.colfer@gmail.com](mailto:brian.colfer@gmail.com) | 🌐 [github.com/briancolfer](https://github.com/briancolfer) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/briancolfer)
 
 ---
 

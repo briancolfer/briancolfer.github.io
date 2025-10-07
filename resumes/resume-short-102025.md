@@ -4,27 +4,27 @@ title: Resume – Short Version
 ---
 
 # Brian Colfer
-📧 [brian.colfer@gmail.com](mailto:brian.colfer@gmail.com) | 🌐 [github.com/brian-colfer](https://github.com/brian-colfer) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+📧 [brian.colfer@gmail.com](mailto:brian.colfer@gmail.com) | 🌐 [github.com/briancolfer](https://github.com/briancolfer) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/briancolfer)
 
 ---
 
 ## Summary
 Release Engineering / DevOps professional with deep experience building and scaling CI/CD pipelines across cloud and on-prem environments.  
-Expert in Jenkins, GitLab CI, GitHub Actions, CircleCI, and Travis CI.  
+Expert in Jenkins, GitLab CI, GitHub Actions, and CircleCI, makefiles and some bazel.
 Known for automating complex release workflows, improving build reliability, and accelerating deployment cycles.  
 Comfortable across Kubernetes, Terraform, Ansible, and modern DevOps toolchains.
 
 ---
 
 ## Core Competencies
-**CI/CD & Automation:** Jenkins, GitLab CI, GitHub Actions, CircleCI, Travis CI  
+**CI/CD & Automation:** Jenkins, GitLab CI, GitHub Actions, CircleCI, Travis CI
 **Infrastructure as Code:** Terraform, Ansible  
 **Languages & Scripting:** Python, Ruby, Groovy, Bash  
 **Containerization & Orchestration:** Docker, Kubernetes, Helm  
 **Quality & Security:** SonarQube, JaCoCo, JFrog Xray, Artifactory  
 **Monitoring & Metrics:** Prometheus, Grafana, ELK Stack  
 **Version Control:** Git, GitLab, GitHub
-
+**Software Development:** Ruby on Rails, Python API automation, Java API servers, Prompt Engineering
 ---
 
 ## Professional Experience
