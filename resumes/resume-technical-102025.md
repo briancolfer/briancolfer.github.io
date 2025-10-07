@@ -1,5 +1,10 @@
+---
+layout: default
+title: Resume – Technical Version
+---
+
 # Brian Colfer
-📧 brian.colfer@gmail.com | 🌐 [github.com/brian-colfer](https://github.com/brian-colfer) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+📧 [brian.colfer@gmail.com](mailto:brian.colfer@gmail.com) | 🌐 [github.com/brian-colfer](https://github.com/brian-colfer) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 ---
 
@@ -30,20 +35,19 @@ Strong collaborator with developers, SREs, and QA to embed quality and security 
 ### ServiceNow — Santa Clara, CA
 **Build & Release Engineer | Mar 2023 – Oct 2025**
 
-- Broke a large monolithic repository (80 + projects) into modular GitLab repos, enabling independent CI/CD pipelines and faster releases.
-- Standardized GitLab configurations and Jenkins pipelines, reducing manual setup from weeks to days while improving reproducibility.
-- Automated deployment workflows with Ansible and Terraform, cutting human intervention by 80 %.
-- Implemented JFrog Artifactory scanning for security compliance and artifact integrity.
-- Embedded SonarQube quality gates and automated testing within release pipelines.
-- Coached development teams on CI/CD best practices, unit/integration testing, and pipeline optimization.
+- Broke up monolithic repo (80+ projects) into modular GitLab repos with automated CI/CD pipelines, improving release reliability and consistency.  
+- Standardized GitLab repository configurations and Jenkins pipelines, cutting manual setup from weeks to days.  
+- Built prompt-engineered GitLab automation and an MCP server to analyze merge requests and enforce consistency.  
+- Applied JFrog artifact scanning for security compliance and integrated SonarQube quality gates into pipelines.  
+- Partnered with developers and QA to improve CI/CD reliability and feedback loops.
 
 ### Upstart, Inc. — San Mateo, CA
 **DevOps Engineer | Nov 2020 – Feb 2023**
 
-- Automated stale-branch cleanup across 50 + repositories ( > 2000 branches ), improving Jenkins performance by 50 %.
-- Created Jenkins shared libraries and Git automation reducing repo maintenance from months to minutes.
-- Migrated builds to a centralized Docker registry and standardized Kubernetes deployments, increasing release stability and speed by > 50 %.
-- Implemented end-to-end CI/CD framework and quality checks with SonarQube, improving defect detection pre-release.
+- Automated stale-branch cleanup across 50+ repositories (>2000 branches), improving Jenkins startup time from 14 hours to 10 minutes.  
+- Created Jenkins shared libraries and Git automation reducing repo maintenance from months to minutes.  
+- Migrated builds to a centralized Docker registry and standardized Kubernetes deployments, increasing release stability and speed by >50%.  
+- Implemented end-to-end CI/CD framework and quality checks with SonarQube, improving defect detection pre-release.  
 - Partnered with QA and development teams to embed continuous testing and deployment validation.
 
 ### Earlier Experience (Summary)
@@ -60,11 +64,11 @@ Architected and executed the extraction of 30 modules from a monolithic repo int
 Improved maintainability, reduced coupling, and accelerated build isolation.
 
 ### GitLab Standardization – ServiceNow
-Automated project settings, branch protections, and security scans across 80 + projects, cutting manual effort from weeks to days and improving compliance.
+Automated project settings, branch protections, and security scans across 80+ projects, cutting manual effort from weeks to days and improving compliance.
 
 ### Branch Cleanup Automation – Upstart
 Designed Python + Bash automation to identify, report, and prune 2000 stale branches.  
-Result: Jenkins startup stability and performance improved > 50 %.
+**Result:** Jenkins startup stability and performance improved >50%.
 
 ### Kubernetes Self-Service Deployments – Upstart
 Guided BigData team in adopting Kubernetes deployments via Jenkins pipelines and Helm charts, enabling team autonomy and higher deployment reliability.
@@ -76,3 +80,4 @@ Integrated Jenkins pipelines with a central Docker registry using Groovy + Bash,
 
 ## Education
 **B.A. Psychology / English** – California Lutheran University, Thousand Oaks, CA
+

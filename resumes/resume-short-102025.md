@@ -1,4 +1,10 @@
-📧 brian.colfer@gmail.com | 🌐 [github.com/brian-colfer](https://github.com/brian-colfer) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+---
+layout: default
+title: Resume – Short Version
+---
+
+# Brian Colfer
+📧 [brian.colfer@gmail.com](mailto:brian.colfer@gmail.com) | 🌐 [github.com/brian-colfer](https://github.com/brian-colfer) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 ---
 
@@ -23,27 +29,28 @@ Comfortable across Kubernetes, Terraform, Ansible, and modern DevOps toolchains.
 
 ## Professional Experience
 
-### ServiceNow — Santa Clara, CA
+### ServiceNow — Santa Clara, CA  
 **Build & Release Engineer | Mar 2023 – Oct 2025**
 
-- Broke up monolithic repo (80 + projects) into modular GitLab repos with automated CI/CD pipelines, improving release reliability and consistency.
-- Standardized GitLab project settings and Jenkins pipelines, cutting manual configuration effort from weeks to days.
-- Applied JFrog artifact scanning for security and compliance across all builds.
-- Automated deployment pipelines with Ansible and Terraform, reducing manual steps by 80 %.
-- Partnered with dev teams to embed automated testing and SonarQube quality gates in release workflows.
+- Broke up a monolithic repo (80+ projects) into modular GitLab repos with automated CI/CD pipelines, improving release reliability and consistency.  
+- Standardized GitLab project settings and Jenkins pipelines, cutting manual configuration effort from weeks to days.  
+- Built prompt-engineered GitLab automation and MCP server integrations to analyze merge requests and standardize project pipelines.  
+- Applied JFrog artifact scanning for security and compliance across all builds.  
+- Partnered with development teams to embed automated testing and SonarQube quality gates in release workflows.
 
-### Upstart, Inc. — San Mateo, CA
+### Upstart, Inc. — San Mateo, CA  
 **DevOps Engineer | Nov 2020 – Feb 2023**
 
-- Cleaned > 2000 stale branches across 50 + repos, improving Jenkins startup performance by 50 %.
-- Created shared pipeline libraries and branch pruning automation, reducing manual maintenance from months to minutes.
-- Led CI/CD migration to central Docker registry and Kubernetes deployments, boosting release speed and stability by > 50 %.
+- Cleaned >2000 stale branches across 50+ repos, improving Jenkins startup from 14 hours to 10 minutes.  
+- Created shared pipeline libraries and branch pruning automation, reducing manual maintenance from months to minutes.  
+- Led CI/CD migration to a central Docker registry and Kubernetes deployments, boosting release speed and stability by >50%.  
 - Collaborated with QA teams to integrate continuous testing and SonarQube quality checks into pipelines.
 
 ### Earlier Experience (Summary)
-**DevOps & SRE roles** at Zendesk, Apple, ebay, and various startups — delivered build/release automation, Ruby on Rails tooling, and developer productivity platforms supporting large and small engineering teams.
+**DevOps & SRE roles** at Zendesk, Apple, eBay, and various startups — delivered build/release automation, Ruby on Rails tooling, and developer productivity platforms supporting both large-scale and startup engineering teams.
 
 ---
 
 ## Education
 **B.A. Psychology / English** – California Lutheran University, Thousand Oaks, CA
+
