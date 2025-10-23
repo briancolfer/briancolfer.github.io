@@ -50,10 +50,17 @@ Strong collaborator with developers, SREs, and QA to embed quality and security 
 - Implemented end-to-end CI/CD framework and quality checks with SonarQube, improving defect detection pre-release.  
 - Partnered with QA and development teams to embed continuous testing and deployment validation.
 
-### Earlier Experience (Summary)
-**DevOps / SRE Roles – Zendesk, SubSpace, LoanPal, Aktana (2016 – 2020)**  
+### Sampling of Earlier Experience 
+**DevOps, CI/CD, DevOps and SRE Roles**
+
+**Zendesk and Aktana**
 Delivered CI/CD automation, Ruby on Rails build systems, and developer productivity tools.  
+
+**Apple and ebay**
 Introduced continuous deployment practices, infrastructure automation, and monitoring integrations supporting multi-team engineering environments.
+
+**Kaiser Permanente and UCSF**
+Deployment processes and automation as well as build medical support software.
 
 ---
 
