@@ -5,6 +5,10 @@ I help engineering teams cut release cycles from weeks to days by automating CI/
 - Ruby on Rails Delivery (pipelines, scaling, TDD)
 - Quality Engineering (test automation, metrics)
 
+## Articles
+
+- [From Pipeline Gates to Decision Systems: Applying LSP to DevOps](articles/lsp-cicd/)
+
 ## Resumes available on request
 
 - [Short Resume](resumes/resume-short-102025.md)

@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="980" viewBox="0 0 1600 980" role="img" aria-labelledby="title desc">
+  <title id="title">CI/CD LSP Evaluation Tree</title>
+  <desc id="desc">A presentation-quality diagram of a Logic Scoring of Preference evaluation tree for CI/CD capability.</desc>
+  <defs>
+    <style>
+      .title { font: 700 28px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #111827; }
+      .subtitle { font: 500 15px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #4b5563; }
+      .groupTitle { font: 700 20px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #111827; }
+      .groupOp { font: 600 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #374151; }
+      .metric { font: 500 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #1f2937; }
+      .root { fill: #111827; }
+      .groupBox { fill: #f9fafb; stroke: #d1d5db; stroke-width: 1.5; rx: 24; ry: 24; }
+      .metricBox { fill: #ffffff; stroke: #d1d5db; stroke-width: 1.2; rx: 12; ry: 12; }
+      .rootBox { fill: #eff6ff; stroke: #93c5fd; stroke-width: 2; rx: 18; ry: 18; }
+      .connector { stroke: #9ca3af; stroke-width: 2.2; fill: none; stroke-linecap: round; }
+      .legendBox { fill: #ffffff; stroke: #d1d5db; stroke-width: 1.2; rx: 14; ry: 14; }
+      .legendText { font: 500 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #374151; }
+      .foot { font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #6b7280; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1600" height="980" fill="#ffffff"/>
+
+  <text x="800" y="48" text-anchor="middle" class="title">CI/CD Capability as an LSP Evaluation Tree</text>
+  <text x="800" y="76" text-anchor="middle" class="subtitle">From pipeline gates to decision systems: quality, velocity, reliability, operability, governance, and efficiency</text>
+
+  <!-- Root -->
+  <rect x="635" y="105" width="330" height="70" class="rootBox"/>
+  <text x="800" y="147" text-anchor="middle" class="title" style="font-size:24px;">CI/CD Capability</text>
+
+  <!-- Connectors from root -->
+  <path d="M800 175 L800 215" class="connector"/>
+  <path d="M210 250 L1390 250" class="connector"/>
+  <path d="M300 250 L300 275" class="connector"/>
+  <path d="M500 250 L500 275" class="connector"/>
+  <path d="M700 250 L700 275" class="connector"/>
+  <path d="M900 250 L900 275" class="connector"/>
+  <path d="M1100 250 L1100 275" class="connector"/>
+  <path d="M1300 250 L1300 275" class="connector"/>
+  <path d="M800 215 L800 250" class="connector"/>
+
+  <!-- Group cards -->
+  <!-- Quality -->
+  <rect x="165" y="275" width="270" height="245" class="groupBox"/>
+  <text x="300" y="315" text-anchor="middle" class="groupTitle">Quality</text>
+  <text x="300" y="338" text-anchor="middle" class="groupOp">Strong AND</text>
+  <path d="M300 352 L300 378" class="connector"/>
+  <rect x="195" y="392" width="210" height="42" class="metricBox"/>
+  <text x="300" y="418" text-anchor="middle" class="metric">Test Effectiveness</text>
+  <rect x="195" y="452" width="210" height="42" class="metricBox"/>
+  <text x="300" y="478" text-anchor="middle" class="metric">Security Posture</text>
+
+  <!-- Velocity -->
+  <rect x="365" y="275" width="270" height="245" class="groupBox" transform="translate(0,0)"/>
+  <text x="500" y="315" text-anchor="middle" class="groupTitle">Velocity</text>
+  <text x="500" y="338" text-anchor="middle" class="groupOp">Weak AND</text>
+  <path d="M500 352 L500 378" class="connector"/>
+  <rect x="395" y="382" width="210" height="42" class="metricBox"/>
+  <text x="500" y="408" text-anchor="middle" class="metric">Deployment Frequency</text>
+  <rect x="395" y="442" width="210" height="42" class="metricBox"/>
+  <text x="500" y="468" text-anchor="middle" class="metric">Lead Time</text>
+  <rect x="395" y="502" width="210" height="42" class="metricBox"/>
+  <text x="500" y="528" text-anchor="middle" class="metric">PR Cycle Time</text>
+
+  <!-- Reliability -->
+  <rect x="565" y="275" width="270" height="245" class="groupBox"/>
+  <text x="700" y="315" text-anchor="middle" class="groupTitle">Reliability</text>
+  <text x="700" y="338" text-anchor="middle" class="groupOp">Strong AND</text>
+  <path d="M700 352 L700 378" class="connector"/>
+  <rect x="595" y="382" width="210" height="42" class="metricBox"/>
+  <text x="700" y="408" text-anchor="middle" class="metric">Change Failure Rate</text>
+  <rect x="595" y="442" width="210" height="42" class="metricBox"/>
+  <text x="700" y="468" text-anchor="middle" class="metric">MTTR</text>
+  <rect x="595" y="502" width="210" height="42" class="metricBox"/>
+  <text x="700" y="528" text-anchor="middle" class="metric">Rollback Success</text>
+
+  <!-- Operability -->
+  <rect x="765" y="275" width="270" height="245" class="groupBox"/>
+  <text x="900" y="315" text-anchor="middle" class="groupTitle">Operability</text>
+  <text x="900" y="338" text-anchor="middle" class="groupOp">Neutral AND</text>
+  <path d="M900 352 L900 378" class="connector"/>
+  <rect x="795" y="392" width="210" height="42" class="metricBox"/>
+  <text x="900" y="418" text-anchor="middle" class="metric">Observability</text>
+  <rect x="795" y="452" width="210" height="42" class="metricBox"/>
+  <text x="900" y="478" text-anchor="middle" class="metric">Developer Experience</text>
+
+  <!-- Governance -->
+  <rect x="965" y="275" width="270" height="245" class="groupBox"/>
+  <text x="1100" y="315" text-anchor="middle" class="groupTitle">Governance</text>
+  <text x="1100" y="338" text-anchor="middle" class="groupOp">AND</text>
+  <path d="M1100 352 L1100 378" class="connector"/>
+  <rect x="995" y="392" width="210" height="42" class="metricBox"/>
+  <text x="1100" y="418" text-anchor="middle" class="metric">Policy Enforcement</text>
+  <rect x="995" y="452" width="210" height="42" class="metricBox"/>
+  <text x="1100" y="478" text-anchor="middle" class="metric">Auditability</text>
+
+  <!-- Efficiency -->
+  <rect x="1165" y="275" width="270" height="245" class="groupBox"/>
+  <text x="1300" y="315" text-anchor="middle" class="groupTitle">Efficiency</text>
+  <text x="1300" y="338" text-anchor="middle" class="groupOp">Weak OR</text>
+  <path d="M1300 352 L1300 378" class="connector"/>
+  <rect x="1195" y="392" width="210" height="42" class="metricBox"/>
+  <text x="1300" y="418" text-anchor="middle" class="metric">Build Cost</text>
+  <rect x="1195" y="452" width="210" height="42" class="metricBox"/>
+  <text x="1300" y="478" text-anchor="middle" class="metric">Pipeline Efficiency</text>
+
+  <!-- Legend -->
+  <rect x="175" y="585" width="1250" height="180" class="legendBox"/>
+  <text x="210" y="620" class="groupTitle" style="font-size:18px;">How to read this diagram</text>
+  <text x="210" y="650" class="legendText">• Each leaf metric is converted into a normalized preference score on a 0–1 scale.</text>
+  <text x="210" y="678" class="legendText">• Each parent node aggregates its children with a graded logical operator rather than a simple weighted average.</text>
+  <text x="210" y="706" class="legendText">• Strong AND means weak performance should sharply reduce the parent score; Weak OR allows more compensation.</text>
+  <text x="210" y="734" class="legendText">• This makes the model suitable for CI/CD trade-offs where safety, speed, and governance are not equally negotiable.</text>
+
+  <text x="800" y="840" text-anchor="middle" class="subtitle">Suggested article embedding</text>
+  <rect x="435" y="860" width="730" height="52" class="legendBox"/>
+  <text x="800" y="892" text-anchor="middle" class="legendText">![CI/CD LSP Model](images/cicd_lsp_model.svg)</text>
+
+  <text x="800" y="950" text-anchor="middle" class="foot">Figure: LSP evaluation tree for CI/CD capability</text>
+</svg>
