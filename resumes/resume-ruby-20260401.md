@@ -37,6 +37,7 @@ Santa Clara, CA
 Focused on developer productivity, CI/CD systems, and automation across multiple engineering teams.
 
 Key Contributions:
+
 - Designed and maintained CI/CD pipelines used across multiple teams
 - Implemented automated code quality and security scanning in pipelines
 - Introduced progressive code coverage requirements for new code
@@ -47,6 +48,7 @@ Key Contributions:
 - Helped standardize CI/CD practices across engineering teams
 
 Impact:  
+
 Improved developer feedback loops, build reliability, and deployment confidence across engineering teams.
 
 ---
@@ -58,6 +60,7 @@ San Mateo, CA
 Worked on CI/CD systems, build infrastructure, and developer tooling.
 
 Key Contributions:
+
 - Helped break a large monolithic repository into dozens of smaller repositories
 - Standardized CI/CD pipelines across multiple repositories
 - Implemented automated testing and code quality checks in pipelines
@@ -77,6 +80,7 @@ San Francisco, CA
 Focused on build systems, CI infrastructure, and developer productivity.
 
 Key Contributions:
+
 - Improved build reliability and reduced flaky builds
 - Built dashboards for build performance and system health
 - Automated release processes and reduced manual deployment work
@@ -91,6 +95,7 @@ Cupertino, CA
 Worked on build systems and release automation for large software projects.
 
 Key Contributions:
+
 - Improved build performance and reliability
 - Automated build and release processes
 - Supported large engineering teams with build infrastructure
@@ -100,6 +105,7 @@ Key Contributions:
 # Selected Platform / Developer Productivity Work
 
 Across multiple companies:
+
 - Standardized CI/CD pipelines across many repositories
 - Implemented code quality and coverage gates
 - Improved build speed and reliability
@@ -113,6 +119,7 @@ Across multiple companies:
 # Engineering Philosophy
 
 I focus on improving the feedback loops engineers experience every day:
+
 - CI speed  
 - Test reliability  
 - Code review latency  
@@ -133,5 +140,6 @@ BA / California Lutheran University
 
 # Links
 
-Medium:https://medium.com/@briancolfer
+Medium: https://medium.com/@briancolfer
+
 Website: https://briancolfer.github.io
