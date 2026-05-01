@@ -9,7 +9,7 @@ I help engineering teams cut release cycles from weeks to days by automating CI/
 
 - [From Pipeline Gates to Decision Systems: Applying LSP to DevOps](articles/lsp-cicd/)
 
-## Resumes available on request
+## Resume
 
-- [Short Resume](resumes/resume-short-102025.md)
-- [Technical Resume](resumes/resume-technical-102025.md)
+- [Technical Resume](resumes/resume-20260422.md)
+
