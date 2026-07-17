@@ -7,7 +7,9 @@ hero_link_text: See Consulting Services
 hero_height: is-medium
 ---
 
-I help engineering teams cut release cycles from weeks to days by automating CI/CD, modernizing Kubernetes deployments, and embedding quality into every pipeline.
+I’m a staff platform engineer with 20+ years improving software delivery at Apple, Zendesk, Upstart, and ServiceNow. I work on the systems that move code from commit to production — CI/CD pipelines, deployment automation, feedback loops, and the practices that make delivery reliable at scale.
+
+[Resume](/resume/) · [Articles](/articles/) · [Consulting](/consulting/)
 
 ## Services
 
@@ -41,7 +43,11 @@ Engagements typically take one of three forms:
 - [From Pipeline Gates to Decision Systems: Applying LSP to DevOps](articles/lsp-cicd/index.md)  
   How graded logic moves CI/CD pipelines beyond rigid pass/fail gates toward nuanced, risk-aware deployment decisions.
 
+## Projects
+
+**Behavioral Insights** — A production Ruby on Rails application for tracking behavioral patterns and outcomes. Designed the data model, built the full delivery system (CI/CD, containerized deployment, monitoring), and operate it in production with real users. Built with TDD, automated pipelines, and incremental delivery — the same practices I write about and consult on.
+
 ## Resume
 
-- [Technical Resume](resumes/resume-20260422.md)
+- [Technical Resume](/resume/)
 
