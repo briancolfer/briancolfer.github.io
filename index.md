@@ -31,7 +31,7 @@ Engagements typically take one of three forms:
 
 ## Results
 
-- Reduced Jenkins startup from **14 hours to 10 minutes** across 56 repositories — giving engineers same-day feedback instead of overnight waits
+- Minimized Jenkins restart downtime from 14 hours to 10 minutes across 56 repositories, keeping CI/CD available and engineers unblocked.
 - Led 14-week mono-repo decomposition across **12 teams (~50 engineers)**, improving release reliability by 40% and enabling independent team ownership
 - Increased development velocity by **60%** through automated pipeline enforcement — teams shipped more frequently with 90%+ test coverage
 - Shifted feedback from multi-day delays to **same-day validation** by embedding testing and security directly into the development workflow, reducing the cost of late-stage defect discovery
@@ -47,7 +47,7 @@ Engagements typically take one of three forms:
 
 ## Projects
 
-**Behavioral Insights** — A production Ruby on Rails application for tracking behavioral patterns and outcomes. Designed the data model, built the full delivery system (CI/CD, containerized deployment, monitoring), and operate it in production with real users. Built with TDD, automated pipelines, and incremental delivery — the same practices I write about and consult on.
+**Behavioral Insights** — A production Ruby on Rails application for tracking behavioral patterns and outcomes. Designed the data model, built the full delivery system (CI/CD, containerized deployment, monitoring), and operate it in production with real users. Built with TDD, automated pipelines, and incremental delivery — the same practices I write about and consult on. Visit [behaviorinsights.me](https://behaviorinsights.me) (invitation-only), or [request access by email](mailto:brian.colfer@gmail.com?subject=behaviorinsights%20access%20request).
 
 ## Resume
 
