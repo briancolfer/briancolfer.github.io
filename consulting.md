@@ -14,6 +14,8 @@ My focus is release engineering, CI/CD systems, deployment workflows, and delive
 
 Most teams do not have a tooling problem — they have a process, visibility, or decision problem. I work with teams to understand their current delivery system, identify risks and bottlenecks, and propose practical improvements.
 
+Engagements work best for engineering organizations of 20–500 developers looking to improve delivery speed, reduce deployment risk, or modernize their CI/CD and platform practices.
+
 ## Areas I Help With
 
 - CI/CD pipeline design and improvement
@@ -27,17 +29,13 @@ Most teams do not have a tooling problem — they have a process, visibility, or
 - Environment promotion strategy
 - Decision models for evaluating delivery systems
 
-## Typical Engagement
+## How an Engagement Works
 
-A typical engagement might include:
-
-1. Review CI/CD pipeline and deployment workflow
-2. Review release and branching strategy
-3. Identify risks and bottlenecks
-4. Suggest improvements
-5. Help implement automation or process changes
-6. Define delivery metrics
-7. Document the release process
+1. **Discovery** — Interview engineers and leads to understand the current delivery system, pain points, and organizational constraints.
+2. **Assessment** — Map the delivery pipeline, identify risks, bottlenecks, and gaps in observability or feedback.
+3. **Recommendations** — Deliver a written report: current state summary, prioritized improvements, and a practical roadmap.
+4. **Implementation** — Help build or improve automation, pipelines, runbooks, and delivery practices.
+5. **Knowledge Transfer** — Document the system and leave the team able to maintain and evolve it independently.
 
 ## Delivery Philosophy
 

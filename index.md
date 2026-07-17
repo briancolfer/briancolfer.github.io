@@ -1,13 +1,15 @@
 ---
 layout: page
 title: Ship faster with confidence
-subtitle: Release engineering and delivery consulting for teams that want to ship reliably, frequently, and with less stress.
+subtitle: Release engineering and platform engineering — helping engineering organizations ship reliably, frequently, and with confidence.
 hero_link: /consulting/
 hero_link_text: See Consulting Services
 hero_height: is-medium
 ---
 
-I’m a staff platform engineer with 20+ years improving software delivery at Apple, Zendesk, Upstart, and ServiceNow. I work on the systems that move code from commit to production — CI/CD pipelines, deployment automation, feedback loops, and the practices that make delivery reliable at scale.
+I help engineering organizations improve software delivery by reducing friction, increasing deployment confidence, and building sustainable engineering practices. With 20+ years in release engineering and developer productivity — including Apple, Zendesk, Upstart, and ServiceNow — I work with teams to improve delivery without sacrificing quality or engineering experience.
+
+> Software delivery is fundamentally a feedback system. Great engineering organizations don’t just automate — they build systems that help engineers make better decisions faster.
 
 [Resume](/resume/) · [Articles](/articles/) · [Consulting](/consulting/)
 
@@ -15,7 +17,7 @@ I’m a staff platform engineer with 20+ years improving software delivery at Ap
 
 - **DevOps Transformation** — CI/CD pipeline design and improvement, repo decomposition, Kubernetes migration
 - **Release Engineering** — branching strategy, deployment automation, rollback, and delivery metrics
-- **Quality Engineering** — test automation, security scanning, observability, and DORA metrics
+- **Delivery Excellence** — test automation, security scanning, observability, and DORA metrics
 
 ## How I Work
 
@@ -29,18 +31,18 @@ Engagements typically take one of three forms:
 
 ## Results
 
-- Cut Jenkins startup from **14 hours to 10 minutes** across 56 repositories
-- Led 14-week mono-repo decomposition across **12 teams (~50 engineers)**, improving release reliability by 40%
-- Increased development velocity by **60%** with automated pipeline enforcement and 90%+ test coverage
-- Shifted feedback from multi-day delays to **same-day validation** by embedding testing and security into pipelines
-- Reduced production issues by **30%** and increased test coverage by 40%
+- Reduced Jenkins startup from **14 hours to 10 minutes** across 56 repositories — giving engineers same-day feedback instead of overnight waits
+- Led 14-week mono-repo decomposition across **12 teams (~50 engineers)**, improving release reliability by 40% and enabling independent team ownership
+- Increased development velocity by **60%** through automated pipeline enforcement — teams shipped more frequently with 90%+ test coverage
+- Shifted feedback from multi-day delays to **same-day validation** by embedding testing and security directly into the development workflow, reducing the cost of late-stage defect discovery
+- Reduced production issues by **30%** while increasing test coverage by 40% — improving delivery confidence across the organization
 
 ## Articles
 
-- [Conscious Platform Engineering](articles/conscious-platform-engineering/index.md)  
+- [Conscious Platform Engineering](/articles/conscious-platform-engineering/)  
   A consultancy doctrine: deciding what to automate, what to surface, and what to escalate — protecting developer attention as carefully as infrastructure.
 
-- [From Pipeline Gates to Decision Systems: Applying LSP to DevOps](articles/lsp-cicd/index.md)  
+- [From Pipeline Gates to Decision Systems: Applying LSP to DevOps](/articles/lsp-cicd/)  
   How graded logic moves CI/CD pipelines beyond rigid pass/fail gates toward nuanced, risk-aware deployment decisions.
 
 ## Projects
