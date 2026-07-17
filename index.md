@@ -47,7 +47,9 @@ Engagements typically take one of three forms:
 
 ## Projects
 
-**Behavioral Insights** — A production Ruby on Rails application for tracking behavioral patterns and outcomes. Designed the data model, built the full delivery system (CI/CD, containerized deployment, monitoring), and operate it in production with real users. Built with TDD, automated pipelines, and incremental delivery — the same practices I write about and consult on. Visit [behaviorinsights.me](https://behaviorinsights.me) (invitation-only), or [request access by email](mailto:brian.colfer@gmail.com?subject=behaviorinsights%20access%20request).
+**Behavioral Insights** — A production Ruby on Rails application for tracking behavioral patterns and outcomes.
+Designed the data model, built the full delivery system (CI/CD, containerized deployment, monitoring), and operate it in production with real users. Built with TDD, automated pipelines, and incremental delivery — the same practices I write about and consult on.
+Visit [behaviorinsights.me](https://behaviorinsights.me) and [request access by email](mailto:brian.colfer@gmail.com?subject=behaviorinsights%20access%20request).
 
 ## Resume
 
