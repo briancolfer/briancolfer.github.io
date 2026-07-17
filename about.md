@@ -11,6 +11,8 @@ I'm a release engineering and platform engineering professional with 20+ years b
 
 I see software delivery as a sociotechnical system — not just a collection of pipelines and scripts, but an intersection of technical architecture, organizational behavior, and human decision-making.
 
+I treat staff engineering as internal consulting: diagnose the delivery system, build alignment, land the change, and transfer ownership. Whether I'm embedded in an organization or engaged externally, the discipline is the same.
+
 A few principles drive most of my work:
 
 - **Reduce delivery risk** — through better feedback loops, automated quality gates, and clear rollback strategies

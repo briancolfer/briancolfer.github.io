@@ -13,6 +13,18 @@ I help engineering organizations improve software delivery by reducing friction,
 
 [Resume](/resume/) · [Articles](/articles/) · [Consulting](/consulting/)
 
+## Staff Engineering Is Internal Consulting
+
+The best staff engineers operate like consultants inside their own organizations. The work is rarely “write more code” — it’s:
+
+- **Discovery** — understanding how teams actually deliver software, not how the org chart says they do
+- **Assessment** — identifying the risks and bottlenecks that matter, and the ones that don’t
+- **Recommendations** — building alignment with leadership and with the teams doing the work
+- **Implementation** — landing changes without disrupting delivery
+- **Knowledge transfer** — leaving teams able to own and evolve the system
+
+That’s how I led the mono-repo decomposition at ServiceNow — 12 teams, ~50 engineers, 14 weeks of consensus-building across a globally distributed organization — and it’s how I approach external consulting engagements. The setting changes; the discipline doesn’t.
+
 ## Services
 
 - **DevOps Transformation** — CI/CD pipeline design and improvement, repo decomposition, Kubernetes migration
@@ -21,7 +33,7 @@ I help engineering organizations improve software delivery by reducing friction,
 
 ## How I Work
 
-Engagements typically take one of three forms:
+Externally, engagements typically take one of three forms:
 
 - **Delivery Audit** — A focused review of your CI/CD pipeline, branching strategy, and deployment workflow, delivered as a written recommendations report.
 - **Fractional Consulting** — Ongoing release engineering leadership for teams that don’t need a full-time hire.
