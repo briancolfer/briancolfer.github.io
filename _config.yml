@@ -1,1 +1,6 @@
 theme: jekyll-theme-midnight
+title: Chelonitech
+description: Release engineering and delivery consulting — helping teams ship software reliably and at speed.
+author: Brian Colfer
+header_pages:
+  - consulting.md

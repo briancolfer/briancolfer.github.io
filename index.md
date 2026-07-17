@@ -7,6 +7,7 @@ I help engineering teams cut release cycles from weeks to days by automating CI/
 
 ## Articles
 
+- [Conscious Platform Engineering](articles/conscious-platform-engineering/index.md)
 - [From Pipeline Gates to Decision Systems: Applying LSP to DevOps](articles/lsp-cicd/index.md)
 
 ## Resume

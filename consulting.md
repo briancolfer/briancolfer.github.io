@@ -47,3 +47,9 @@ Good delivery systems allow teams to:
 - Understand the state of their system
 - Make better decisions over time
 
+## Get in Touch
+
+If you'd like to discuss your delivery system or explore working together, I'm happy to have a conversation.
+
+[brian.colfer@gmail.com](mailto:brian.colfer@gmail.com)
+
