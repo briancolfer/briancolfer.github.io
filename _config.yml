@@ -1,6 +1,11 @@
-theme: jekyll-theme-midnight
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+plugins:
+  - jekyll-remote-theme
+
 title: Chelonitech
 description: Release engineering and delivery consulting — helping teams ship software reliably and at speed.
 author: Brian Colfer
+email: brian.colfer@gmail.com
+
 header_pages:
   - consulting.md

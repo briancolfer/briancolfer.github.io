@@ -1,10 +1,13 @@
-# Ship faster with confidence
+---
+layout: page
+title: Ship faster with confidence
+subtitle: Release engineering and delivery consulting for teams that want to ship reliably, frequently, and with less stress.
+hero_link: /consulting/
+hero_link_text: See Consulting Services
+hero_height: is-medium
+---
 
 I help engineering teams cut release cycles from weeks to days by automating CI/CD, modernizing Kubernetes deployments, and embedding quality into every pipeline.
-
-<a href="mailto:brian.colfer@gmail.com" class="cta-btn">Get in Touch</a>
-
----
 
 ## Services
 

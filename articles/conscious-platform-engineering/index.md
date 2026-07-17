@@ -1,8 +1,8 @@
 ---
+layout: page
 title: "Conscious Platform Engineering"
+toc: true
 ---
-
-# Conscious Platform Engineering
 
 ## Core Idea
 

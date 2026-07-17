@@ -2,8 +2,11 @@
 layout: page
 title: Consulting
 permalink: /consulting/
+subtitle: Making software delivery more reliable, repeatable, and less stressful.
+hero_link: mailto:brian.colfer@gmail.com
+hero_link_text: Get in Touch
+hero_height: is-small
 ---
-## Release Engineering and Delivery Consulting
 
 I help teams improve how software moves from commit to production.
 

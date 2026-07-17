@@ -1,8 +1,8 @@
 ---
+layout: page
 title: "From Pipeline Gates to Decision Systems: Applying LSP to DevOps"
+toc: true
 ---
-
-# From Pipeline Gates to Decision Systems: Applying LSP to DevOps
 
 Modern CI/CD pipelines are incredibly powerful.
 
