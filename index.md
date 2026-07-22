@@ -51,7 +51,7 @@ Externally, engagements typically take one of three forms:
 
 ## Articles
 
-- [Conscious Platform Engineering](/articles/conscious-platform-engineering/)  
+- [Intentional Platform Engineering](/articles/conscious-platform-engineering/)
   A consultancy doctrine: deciding what to automate, what to surface, and what to escalate — protecting developer attention as carefully as infrastructure.
 
 - [From Pipeline Gates to Decision Systems: Applying LSP to DevOps](/articles/lsp-cicd/)  
@@ -66,4 +66,3 @@ Visit [behaviorinsights.me](https://behaviorinsights.me) and [request access by 
 ## Resume
 
 - [Technical Resume](/resume/)
-

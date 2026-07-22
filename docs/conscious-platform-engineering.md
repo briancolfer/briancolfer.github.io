@@ -1,4 +1,4 @@
-# Conscious Platform Engineering
+# Intentional Platform Engineering
 
 ## Core Idea
 

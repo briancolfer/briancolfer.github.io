@@ -7,7 +7,7 @@ permalink: /articles/
 
 ## Platform Engineering
 
-[Conscious Platform Engineering](conscious-platform-engineering/)
+[Intentional Platform Engineering](conscious-platform-engineering/)
 A consultancy doctrine for deciding what to automate, what to surface, and what to escalate — protecting developer attention as carefully as infrastructure. Introduces a four-stage consulting framework and a set of paired measures for evaluating whether a platform is reducing meaningful risk or accumulating overhead.
 
 ---

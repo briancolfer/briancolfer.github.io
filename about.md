@@ -24,7 +24,7 @@ A few principles drive most of my work:
 
 The articles on this site reflect how I think about the discipline:
 
-- [Conscious Platform Engineering](/articles/conscious-platform-engineering/) explores how platform teams should decide what to automate, what to surface, and what to escalate — protecting developer attention as carefully as infrastructure
+- [Intentional Platform Engineering](/articles/conscious-platform-engineering/) explores how platform teams should decide what to automate, what to surface, and what to escalate — protecting developer attention as carefully as infrastructure
 - [From Pipeline Gates to Decision Systems: Applying LSP to DevOps](/articles/lsp-cicd/) applies Logic Scoring of Preference to replace binary deployment gates with graded, risk-aware decision models
 
 Rather than presenting myself as someone who knows Jenkins, Kubernetes, or GitLab, I try to present myself as someone who improves how engineering organizations deliver software. The tools become evidence of that capability, not the main story.

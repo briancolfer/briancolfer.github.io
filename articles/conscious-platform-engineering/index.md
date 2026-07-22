@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Conscious Platform Engineering"
+title: "Intentional Platform Engineering"
 toc: true
 ---
 
