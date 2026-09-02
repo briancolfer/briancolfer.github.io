@@ -129,3 +129,7 @@ Temporary Items
 # Keep the tmp folders, ignore everything inside them
 **/tmp/*
 !**/tmp/.keep
+# Local-only content
+private/
+chelonisystems.com/
+.idea/

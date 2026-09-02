@@ -15,3 +15,6 @@ header_pages:
   - articles/index.md
   - resumes/resume-20260422.md
   - consulting.md
+
+exclude:
+  - private/
