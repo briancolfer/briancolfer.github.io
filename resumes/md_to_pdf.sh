@@ -15,7 +15,7 @@ OUTPUT="${INPUT%.md}.pdf"
 pandoc "$INPUT" \
   -o "$OUTPUT" \
   --pdf-engine=xelatex \
-  -V geometry:margin=1in \
+  -V geometry:margin=0.8in \
   -V mainfont="Helvetica Neue" \
   -V fontsize=11pt \
   -V linkcolor=blue \
